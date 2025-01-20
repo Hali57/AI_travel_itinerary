@@ -1,0 +1,312 @@
+[
+  {
+    "city": "Nairobi",
+    "date": "2025-01-20",
+    "itinerary": [
+      {
+        "time": "Morning",
+        "activity": "Visit Nairobi National Park",
+        "duration": "4h",
+        "budget": "Low",
+        "images": [
+          "https://unsplash.com/photos/nairobi_default1"
+        ]
+      },
+      {
+        "time": "Afternoon",
+        "activity": "Lunch at a local restaurant",
+        "duration": "4h",
+        "budget": "High",
+        "images": [
+          "https://unsplash.com/photos/nairobi_default1"
+        ]
+      },
+      {
+        "time": "Evening",
+        "activity": "Explore local art galleries",
+        "duration": "4h",
+        "budget": "Low",
+        "images": [
+          "https://unsplash.com/photos/nairobi_default1"
+        ]
+      }
+    ],
+    "preview": true
+  },
+  {
+    "city": "Nairobi",
+    "date": "2025-01-21",
+    "itinerary": [
+      {
+        "time": "Morning",
+        "activity": "Walk in Karura Forest",
+        "duration": "1h",
+        "budget": "High",
+        "images": [
+          "https://unsplash.com/photos/nairobi_default1"
+        ]
+      },
+      {
+        "time": "Afternoon",
+        "activity": "Visit David Sheldrick Wildlife Trust",
+        "duration": "2h",
+        "budget": "Low",
+        "images": [
+          "https://unsplash.com/photos/nairobi_default1"
+        ]
+      },
+      {
+        "time": "Evening",
+        "activity": "Experience Nairobi Nightlife at The Alchemist Bar",
+        "duration": "2h",
+        "budget": "High",
+        "images": [
+          "https://unsplash.com/photos/nairobi_nightlife1",
+          "https://unsplash.com/photos/nairobi_nightlife2"
+        ]
+      }
+    ],
+    "preview": true
+  },
+  {
+    "city": "Nairobi",
+    "date": "2025-01-22",
+    "itinerary": [
+      {
+        "time": "Morning",
+        "activity": "Walk in Karura Forest",
+        "duration": "3h",
+        "budget": "Medium",
+        "images": [
+          "https://unsplash.com/photos/nairobi_default1"
+        ]
+      },
+      {
+        "time": "Afternoon",
+        "activity": "Lunch at a local restaurant",
+        "duration": "4h",
+        "budget": "Low",
+        "images": [
+          "https://unsplash.com/photos/nairobi_default1"
+        ]
+      },
+      {
+        "time": "Evening",
+        "activity": "Explore local art galleries",
+        "duration": "4h",
+        "budget": "Medium",
+        "images": [
+          "https://unsplash.com/photos/nairobi_default1"
+        ]
+      }
+    ],
+    "preview": true
+  },
+  {
+    "city": "Mombasa",
+    "date": "2025-01-20",
+    "itinerary": [
+      {
+        "time": "Morning",
+        "activity": "Explore Old Town",
+        "duration": "4h",
+        "budget": "High",
+        "images": [
+          "https://unsplash.com/photos/mombasa_default1"
+        ]
+      },
+      {
+        "time": "Afternoon",
+        "activity": "Lunch at a seaside restaurant",
+        "duration": "1h",
+        "budget": "High",
+        "images": [
+          "https://unsplash.com/photos/mombasa_default1"
+        ]
+      },
+      {
+        "time": "Evening",
+        "activity": "Visit a local music venue",
+        "duration": "1h",
+        "budget": "High",
+        "images": [
+          "https://unsplash.com/photos/mombasa_default1"
+        ]
+      }
+    ],
+    "preview": true
+  },
+  {
+    "city": "Mombasa",
+    "date": "2025-01-21",
+    "itinerary": [
+      {
+        "time": "Morning",
+        "activity": "Explore Old Town",
+        "duration": "4h",
+        "budget": "Low",
+        "images": [
+          "https://unsplash.com/photos/mombasa_default1"
+        ]
+      },
+      {
+        "time": "Afternoon",
+        "activity": "Take a guided historical tour",
+        "duration": "2h",
+        "budget": "Medium",
+        "images": [
+          "https://unsplash.com/photos/mombasa_default1"
+        ]
+      },
+      {
+        "time": "Evening",
+        "activity": "Visit a local music venue",
+        "duration": "1h",
+        "budget": "Medium",
+        "images": [
+          "https://unsplash.com/photos/mombasa_default1"
+        ]
+      }
+    ],
+    "preview": true
+  },
+  {
+    "city": "Mombasa",
+    "date": "2025-01-22",
+    "itinerary": [
+      {
+        "time": "Morning",
+        "activity": "Explore Old Town",
+        "duration": "3h",
+        "budget": "Low",
+        "images": [
+          "https://unsplash.com/photos/mombasa_default1"
+        ]
+      },
+      {
+        "time": "Afternoon",
+        "activity": "Take a guided historical tour",
+        "duration": "3h",
+        "budget": "High",
+        "images": [
+          "https://unsplash.com/photos/mombasa_default1"
+        ]
+      },
+      {
+        "time": "Evening",
+        "activity": "Visit a local music venue",
+        "duration": "1h",
+        "budget": "High",
+        "images": [
+          "https://unsplash.com/photos/mombasa_default1"
+        ]
+      }
+    ],
+    "preview": true
+  },
+  {
+    "city": "Kwale",
+    "date": "2025-01-20",
+    "itinerary": [
+      {
+        "time": "Morning",
+        "activity": "Relax at Diani Beach",
+        "duration": "1h",
+        "budget": "High",
+        "images": [
+          "https://unsplash.com/photos/diani1",
+          "https://unsplash.com/photos/diani2"
+        ]
+      },
+      {
+        "time": "Afternoon",
+        "activity": "Visit a hidden coastal gem",
+        "duration": "1h",
+        "budget": "Medium",
+        "images": [
+          "https://unsplash.com/photos/kwale_default1"
+        ]
+      },
+      {
+        "time": "Evening",
+        "activity": "Enjoy a quiet seaside dinner",
+        "duration": "2h",
+        "budget": "High",
+        "images": [
+          "https://unsplash.com/photos/kwale_default1"
+        ]
+      }
+    ],
+    "preview": true
+  },
+  {
+    "city": "Kwale",
+    "date": "2025-01-21",
+    "itinerary": [
+      {
+        "time": "Morning",
+        "activity": "Relax at Diani Beach",
+        "duration": "2h",
+        "budget": "Low",
+        "images": [
+          "https://unsplash.com/photos/diani1",
+          "https://unsplash.com/photos/diani2"
+        ]
+      },
+      {
+        "time": "Afternoon",
+        "activity": "Local cultural market tour",
+        "duration": "4h",
+        "budget": "High",
+        "images": [
+          "https://unsplash.com/photos/kwale_default1"
+        ]
+      },
+      {
+        "time": "Evening",
+        "activity": "Sunset at the beach",
+        "duration": "4h",
+        "budget": "Low",
+        "images": [
+          "https://unsplash.com/photos/kwale_default1"
+        ]
+      }
+    ],
+    "preview": true
+  },
+  {
+    "city": "Kwale",
+    "date": "2025-01-22",
+    "itinerary": [
+      {
+        "time": "Morning",
+        "activity": "Relax at Diani Beach",
+        "duration": "3h",
+        "budget": "High",
+        "images": [
+          "https://unsplash.com/photos/diani1",
+          "https://unsplash.com/photos/diani2"
+        ]
+      },
+      {
+        "time": "Afternoon",
+        "activity": "Local cultural market tour",
+        "duration": "1h",
+        "budget": "Medium",
+        "images": [
+          "https://unsplash.com/photos/kwale_default1"
+        ]
+      },
+      {
+        "time": "Evening",
+        "activity": "Sunset at the beach",
+        "duration": "2h",
+        "budget": "High",
+        "images": [
+          "https://unsplash.com/photos/kwale_default1"
+        ]
+      }
+    ],
+    "preview": true
+  }
+]
